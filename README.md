@@ -1,5 +1,5 @@
 # Enable / Disable Multiple Products
-Extensions for OpenCart 1.5.x
+Extensions for OpenCart 2.3.x
 
 **What:** adds multi-product "Enable" and "Disable" functionality to Product List on Admin Dashboard to update the status of one or more products at a time. Clears cache on update so results show up instantly on website front-end.
 
@@ -9,11 +9,4 @@ Extensions for OpenCart 1.5.x
 
 **More:** displays a success message indicating the number of products enabled/disabled and updates the system cache so that changes take effect instantly on the website front-end.
 
-Requirements: OpenCart v1.5.4-1.5.6 with vQmod installed
-
-## CHANGELOG
-
-v1.0.1
--------
-- added cache refresh on update so results show up instantly on website front-end
-
+Requirements: OpenCart v2.3.0.x
